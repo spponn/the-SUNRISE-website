@@ -1,4 +1,4 @@
 /* Sunrise website stylesheet */
 .h1 {
-  color: linear-gradient(red, orange, yellow);
+  body > h1:nth-child(1): linear-gradient(90deg,red,orange,yellow);
 }
