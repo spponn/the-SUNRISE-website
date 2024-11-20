@@ -1,1 +1,4 @@
-
+/* Sunrise website stylesheet */
+.h1 {
+  color: linear-gradient(red, orange, yellow);
+}
